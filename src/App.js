@@ -9,11 +9,19 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://quotes-kohl.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Quotes Website
+        </a>
+        <a
+          className="App-link"
+          href="https://quotes-kohl.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Quotes Website
         </a>
       </header>
     </div>
