@@ -7,6 +7,7 @@ function App() {
         <p>
           Welcome to Mehak's Website!
         </p>
+        <p>Hi, I'm Mehak, and this is a site of my personal projects so far. Welcome!</p>
         <a
           className="App-link"
           href="https://quotes-kohl.vercel.app/"
