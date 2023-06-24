@@ -18,11 +18,11 @@ function App() {
         </a>
         <a
           className="App-link"
-          href="https://quotes-kohl.vercel.app/"
+          href="https://expo.dev/@mehakkd/voluntime"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Quotes Website
+          Voluntime: A service opportunities tracker based on location
         </a>
       </header>
     </div>
