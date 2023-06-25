@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Quotes Website
+          Quotes Website: A Randomized Collection of Quotes
         </a>
         <a
           className="App-link"
@@ -23,6 +23,14 @@ function App() {
           rel="noopener noreferrer"
         >
           Voluntime: A service opportunities tracker based on location
+        </a>
+        <a
+          className="App-link"
+          href="https://github.com/mehakkd/java_wordle"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Mehak's Wordle: A Wordle Game in Java
         </a>
       </header>
     </div>
