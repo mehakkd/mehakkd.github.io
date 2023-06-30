@@ -32,6 +32,14 @@ function App() {
         >
           Mehak's Wordle: A Wordle Game in Java
         </a>
+            <a
+          className="App-link"
+          href="https://guess-the-number-eosin.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Guess the Number Game
+        </a>
       </header>
     </div>
   );
