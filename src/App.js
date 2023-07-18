@@ -3,18 +3,17 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
+        <h1>
           Welcome to Mehak's Website!
-        </p>
-        <p>Hi, I'm Mehak, and this is a site of my personal projects so far.</p>
+        </h1>
+        <h2>Hi, I'm Mehak, and this is a site of my personal projects so far.</h2>
         <a
           className="App-link"
           href="https://quotes-kohl.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Quotes Website: A Randomized Collection of Quotes
+          <h3>Quotes Website: A Randomized Collection of Quotes</h3>
         </a>
         <a
           className="App-link"
@@ -22,7 +21,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Voluntime: A service opportunities tracker based on location
+          <h3>Voluntime: A service opportunities tracker based on location</h3>
         </a>
         <a
           className="App-link"
@@ -30,9 +29,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Mehak's Wordle: A Wordle Game in Java
+          <h3>Mehak's Wordle: A Wordle Game in Java</h3>
         </a>
-      </header>
     </div>
   );
 }
