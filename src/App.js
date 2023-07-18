@@ -21,7 +21,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h3>Voluntime: A service opportunities tracker based on location</h3>
+          <h3>Voluntime: A service opportunities tracker</h3>
         </a>
         <a
           className="App-link"
