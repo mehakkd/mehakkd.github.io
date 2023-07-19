@@ -39,7 +39,6 @@ function App() {
         >
           Guess the Number Game
         </a>
-      </header>
     </div>
   );
 }
