@@ -31,13 +31,13 @@ function App() {
         >
           <h3>Mehak's Wordle: A Wordle Game in Java</h3>
         </a>
-            <a
+        <a
           className="App-link"
           href="https://guess-the-number-eosin.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Guess the Number Game
+          <h3>Guess the Number Game</h3>
         </a>
     </div>
   );
